@@ -11,3 +11,6 @@ dependencies:
   - pyepsg
   - folium
   - jupyterlab
+  - shapely
+  - tarfile
+  - os
